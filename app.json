@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Keep Gambling Mobile",
+    "slug": "keep-gambling-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {},
+    "web": {}
+  }
+}
